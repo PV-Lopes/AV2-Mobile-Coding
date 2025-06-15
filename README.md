@@ -63,7 +63,7 @@ app/
 │   ├── drawable/          → Ícones e formas
 │   └── values/            → Strings, cores e dimensões
 
-
+```
 ---
 
 ## 🚀 Como Executar o Projeto
