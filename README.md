@@ -107,3 +107,6 @@ Desenvolvido originalmente por Vinícius Thiengo. Ultilisado com propósitos edu
 
 ## 🔗 Link:
 https://github.com/viniciusthiengo/blueshoes-kotlin-android
+
+## ❗ Aviso:
+Por ser baseado em um projeto antigo algumas bibliotecas estão desatualizadas ou não existem mais, por esse motivo as funcionalidades não estão 100% funcionais. Agradeço a atenção e compreensão de todos.
