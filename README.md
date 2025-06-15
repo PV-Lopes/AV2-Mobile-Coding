@@ -72,7 +72,7 @@ app/
 
 - Android Studio **Hedgehog 2023.1.1** ou superior  
 - SDK mínimo: **API 21** (Android 5.0)  
-- Gradle: **7.4.2**
+- Gradle: **8.6**
 
 ### 🛠️ Passo a Passo
 
