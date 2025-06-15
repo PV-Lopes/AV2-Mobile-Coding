@@ -15,7 +15,7 @@ O BlueShoes é um app fictício que permite aos usuários:
 - Cadastrar cartões de crédito e endereços de entrega.
 - Acessar políticas e seções institucionais via menu lateral.
 
-🧪 Embora não se conecte a um backend real, simula uma estrutura robusta de dados e funcionalidades offline com dados mockados.
+Embora não se conecte a um backend real, simula uma estrutura robusta de dados e funcionalidades offline com dados mockados.
 
 ---
 
@@ -105,5 +105,5 @@ app/
 ## 👤 Autor
 Desenvolvido originalmente por Vinícius Thiengo. Ultilisado com propósitos educacionais, análise e documentação por [Pedro Vitor].
 
-## Link:
+## 🔗 Link:
 https://github.com/viniciusthiengo/blueshoes-kotlin-android
